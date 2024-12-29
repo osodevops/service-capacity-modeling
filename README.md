@@ -221,5 +221,5 @@ tox -e py38 -- -k test_<your_functionality> --pdb --pdbcls=IPython.terminal.debu
 ```
 
 
-## Release
-TODO
+## Notes
+https://claude.ai/chat/8edb6d7b-0979-4433-bdc6-75966eadc72c
